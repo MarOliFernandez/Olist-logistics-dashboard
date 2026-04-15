@@ -25,15 +25,20 @@ The analytical panel is divided into three levels of depth:
 
 ### 1. Logistics Overview (Macro Vision)
 Monitoring of global KPIs (Total Volume, Revenue, Average Delivery Times). Includes analysis of temporal trends and geographic distribution of demand.
-> *(https://github.com/MarOliFernandez/Olist-logistics-dashboard/blob/main/Dashboard_Tab1.jpg)*
+> *(![Logistics Overview](Dashboard_Tab1.jpg)*
 
 ### 2. Operational Analysis (Bottlenecks)
 Identification of inefficiencies using a Scatter Plot that cross-references delivery times and delay percentages by product category, along with a ranking of the slowest sellers and regions.
-> *(Add your image here: `![Operational Analysis](Dashboard_Tab2.jpg)`)*
+> *(![Operational Analysis](Dashboard_Tab2.jpg))*
 
 ### 3. Customer Satisfaction (Impact on the Customer)
 Analysis of the average review score. The key visual demonstrates the direct correlation between meeting deadlines and the satisfaction score, supported by a regional choropleth "heat" map.
-> *(Add your image here: `![Customer Satisfaction](Dashboard_Tab3.jpg)`)*
+> *(![Customer Satisfaction](Dashboard_Tab3.jpg))*
+
+### Tooltips (by Region and by Product Category)
+Tooltips allow users to access detailed and contextual information by hovering over an element, without the need to change pages.
+> *(![Hovering region](Tooltip_region.jpg))*
+> *(![Hovering product category](Tooltip_category.jpg))*
 
 ---
 
